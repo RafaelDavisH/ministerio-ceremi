@@ -1,0 +1,38 @@
+# Site settings
+title:          Tale
+description:    "Ministerio Ceremi"
+baseurl:        ""
+url:            ""
+
+# Author
+author:
+  name:         RafaelDavish
+  url:          https://rafaeldavis.me
+  email:        rafaeldavish443@gmail.com
+
+# Build settings
+markdown:       kramdown
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
+
+remote_theme: chesterhow/tale
+
+permalink:    /:year-:month-:day/:title
+paginate:     5
+
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
