@@ -1,7 +1,6 @@
 *.gem
 .bundle
 .sass-cache
-_site
 Gemfile.lock
 copy-about.md
 copy-default.html
