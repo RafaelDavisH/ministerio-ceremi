@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 <div class="post">
@@ -24,13 +24,14 @@ layout: default
 
 </div>
 
-<div class="pagination">
+<div class="pagination-style">
   {% if page.next.url %}
     <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
   {% endif %}
   {% if page.previous.url %}
     <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
   {% endif %}
-
-  <a href="#" class="top">Top</a>
+  <center>
+    <a href="#" class="top">Top</a>
+  </center>
 </div>

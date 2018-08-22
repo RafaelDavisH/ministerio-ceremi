@@ -29,6 +29,7 @@ a {
   background: url('/assets/img/ceremi-bg.png')no-repeat;
   background-size: cover;
   min-height: 70vh;
+  margin-top: 30px;
 
 }
 
@@ -188,4 +189,15 @@ a {
     .nav-text a {
     font-size: 2em;
     }
+}
+
+.paginator-number, .top {
+  font-size: 1.4em;
+  margin-top: 5px;
+  margin-left: 5px;
+  font-weight: 100;
+}
+
+.arrow {
+  font-size: 1.8em;
 }

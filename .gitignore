@@ -3,3 +3,8 @@
 .sass-cache
 _site
 Gemfile.lock
+copy-about.md
+copy-default.html
+copy-home.html
+favicon.ico
+LICENSE

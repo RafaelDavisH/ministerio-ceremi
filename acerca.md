@@ -1,11 +1,10 @@
 ---
-layout: post
+layout: page
 title: "Acerca"
 author: "Lc. Orlando Baldelomar"
 permalink: /acerca/
 ---
-
-
+<br>
 # ¿Qué es CEREMI?
 CEREMI, es un ministerio cristiano evangélico en apoyo a las denominaciones, agencias misioneras locales, en beneficio particular de pastores, misioneros y líderes hispanos de carrera en el ministerio cristiano con tres programas: **Prevención, Renovación y Restauración**.
 

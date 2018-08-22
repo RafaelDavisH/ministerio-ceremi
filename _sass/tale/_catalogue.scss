@@ -8,6 +8,7 @@
     &:hover .catalogue-line,
     &:focus .catalogue-line {
       width: 5rem;
+      text-decoration: none !important;
     }
 
     &:last-child {
