@@ -26,7 +26,7 @@ a {
 
 .ceremi-bg {
   background-color: #FAE5D3;
-  background: url('/assets/img/ceremi-bg.png')no-repeat;
+  background: url('assets/img/ceremi-bg.png')no-repeat;
   background-size: cover;
   min-height: 70vh;
   margin-top: 30px;
@@ -44,7 +44,7 @@ a {
 }
 
 .logo {
-    content: url('/assets/img/ceremi-screen.png');
+    content: url('assets/img/ceremi-screen.png');
     margin-bottom:20px;
 }
 
@@ -176,7 +176,7 @@ a {
 
 @media only screen and (max-width: 992px) {
     .logo {
-        content: url('/assets/img/ceremi-mobile.png');
+        content: url('assets/img/ceremi-mobile.png');
         padding-top: 30px;
         margin-bottom:20px;
     }
