@@ -17,9 +17,9 @@
 {% if site.baseurl %}
   {% include links.html %}
 {% else %}
-<link rel="stylesheet" href="/assets/bootstrap.min.css">
-<link rel="stylesheet" href="/assets/main.css">
-<link rel="stylesheet" href="/assets/base.css">
+<link rel="stylesheet" href="{{ '/assets/bootstrap.min.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/base.css' | relative_url }}">
 {% endif %}
 
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700">
