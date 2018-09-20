@@ -1,37 +1,39 @@
 ---
-layout: page
+layout: default
+title: project
+language: es
 ---
 
-<div class="post">
-  <div class="post-info">
-    <span>Written by</span>
-    {% if page.author %}
-        {{ page.author }}
-    {% else %}
-        {{ site.author.name }}
-    {% endif %}
+<div class="container">
+    <div class="section">
+            <ul class="breadcrumb col-xs-12">
+                    <li><a href="{{ site.baseurl }}{% link index.html %}">Home</a></li>
+                    <li><a href="{{ site.baseurl }}{% link notas/index.html %}">Portfolio</a></li>
+            </ul>
+        <div class="col-xs-12 col-md-12 col-lg-12">
+            <h1 class="title text-center">{{ page.title }}</h1>
+            
+            <p class="project-date text-center">{{ page.date | tdate: "post.date_format" }} | {{ page.tags }}</p>
+            
+            {{content}}
+            
+        </div>
 
-    {% if page.date %}
-      <br>
-      <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
-    {% endif %}
-  </div>
+        <div class="container pagination col-xs-12 col-md-12 col-lg-12">
+            <p class="col-xs-4">
+            {% if page.next.url %}
+                <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
+            {% endif %}
+            </p>
 
-  <h1 class="post-title">{{ page.title }}</h1>
-  <div class="post-line"></div>
-
-  {{ content }}
-
-</div>
-
-<div class="pagination-style">
-  {% if page.next.url %}
-    <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
-  {% endif %}
-  {% if page.previous.url %}
-    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
-  {% endif %}
-  <center>
-    <a href="#" class="top">Top</a>
-  </center>
+            <div class=" col-xs-4 mx-auto">
+                <a href="#" class="top">Top</a>
+            </div>
+            <p class="col-xs-4">
+            {% if page.previous.url %}
+                <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
+            {% endif %}
+            </p>
+        </div>
+    </div>
 </div>

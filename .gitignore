@@ -1,9 +1,0 @@
-*.gem
-.bundle
-.sass-cache
-Gemfile.lock
-copy-about.md
-copy-default.html
-copy-home.html
-favicon.ico
-LICENSE

@@ -1,0 +1,42 @@
+---
+layout: default
+title: categories
+language: es
+---
+
+<br>
+<br>
+<br>
+<div class="catalogue container">
+  {% for post in paginator.posts %}
+    <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
+      <div>
+        
+        <h1 class="catalogue-title">{{ post.title }}</h1>
+        <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | tdate: "post.date_format" }}</time> | {{ post.tags }}
+        <div class="catalogue-line"></div>
+
+        <p>
+          {{ post.content | strip_html | truncatewords: 30 }}
+        </p>
+
+      </div>
+    </a>
+  {% endfor %}
+</div>
+
+<div class="pagination container">
+  <!-- {% if paginator.total_pages > 1 %} -->
+  <div class="mx-auto">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="left arrow">&#8592;</a>
+  {% endif %}
+ 
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="right arrow">&#8594;</a>
+  {% endif %}
+  <!-- {% endif %} -->
+
+  <span class="paginator-number text-center">{{ paginator.page }}</span>
+  </div>
+</div>
