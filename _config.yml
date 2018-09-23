@@ -45,10 +45,9 @@ plugins:
 plugins:
 - jekyll-language-plugin
 
-language: es
+languages: ['en', 'es']
 
 language_data: data.lang.%%
-language_includes_dir: _i18n
 
 highlighter: rouge
 
