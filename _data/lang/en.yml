@@ -1,4 +1,10 @@
 ---
+
+post:
+  published: Published
+  date_format: '%B %d, %Y'
+
+  
 # English
 en:
   date:
