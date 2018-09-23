@@ -13,7 +13,7 @@ language: es
         <div class="col-xs-12 col-md-12 col-lg-12">
             <h1 class="title text-center">{{ page.title }}</h1>
             
-            <p class="project-date text-center">{{ page.date | tdate: "page.date_format" }} | {{ page.tags }}</p>
+            <p class="project-date text-center">{{ post.date | tdate: "post.date_format" }} | {{ page.tags }}</p>
             
             {{content}}
             
