@@ -5,11 +5,11 @@ post:
 
 lang:
   en: English
-  de: German
+  es: Spanish
 
-es:
-  date:
-    abbr_daynames: ['Dom', 'Lun', 'Mar', 'Mier', 'Jue', 'Vier', 'Sab']
-    daynames: ['Domingo', 'Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']
-    abbr_monthnames: ['Ene', 'Feb', 'Mar', 'Abr', 'May', 'Jun', 'Jul', 'Ago', 'Sept', 'Oct', 'Nov', 'Dic']
-    monthnames: ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto', 'Septiembre', 'Octubre', 'Noviembre', 'Diciembre']
+
+date:
+  abbr_daynames: ['Dom', 'Lun', 'Mar', 'Mier', 'Jue', 'Vier', 'Sab']
+  daynames: ['Domingo', 'Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']
+  abbr_monthnames: ['Ene', 'Feb', 'Mar', 'Abr', 'May', 'Jun', 'Jul', 'Ago', 'Sept', 'Oct', 'Nov', 'Dic']
+  monthnames: ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto', 'Septiembre', 'Octubre', 'Noviembre', 'Diciembre']
