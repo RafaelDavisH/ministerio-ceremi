@@ -2,11 +2,11 @@
 layout: post
 title:  "El Plan Divino Para Vencer El Estres 1"
 author: "Lc. Orlando Baldelomar"
-date:   2018-09-19 08:00:00 -0700
+date:   2018-09-28 08:00:00 -0700
 categories: [notas]
 tag: notas
 ---
-<img src="/assets/img/ceremi-bg.png" class="img-fluid" alt="Responsive image">
+<img src="/assets/img/stress.jpeg" class="img-fluid" alt="Responsive image">
 
 <br>
 >Por nada estén afanosos, sino sean conocidas vuestras peticiones delante de Dios en toda oración y ruego, con acción  de gracias.  Y la paz de Dios, que sobrepasa todo entendimiento, guardará  vuestros corazones y vuestros pensamientos en Cristo Jesús.   Por lo demás, hermanos, todo lo que es verdadero, todo lo que es honesto, todo lo justo, todo lo puro, todo lo amable, todo lo que es de buen nombre; si hay virtud alguna, si algo digno de alabanza, en esto pensad.
