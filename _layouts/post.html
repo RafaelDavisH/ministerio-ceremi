@@ -2,15 +2,26 @@
 layout: default
 title: project
 ---
-
-<div class="container">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="container-fluid">
+    <br>
     <div class="section">
-        <div class="col-xs-12 col-md-12 col-lg-12">
+        <br>
+        <div class="mx-auto col-12 col-xs-12 col-md-8 col-lg-8">
+            <br>
             <h1 class="title text-center">{{ page.title }}</h1>
             
             <p class="project-date text-center">{{ page.date | date: "%B %d, %Y" }} | {{ page.tags }}</p>
             
             {{content}}
+            <div class="fb-comments" data-href="https://ceremiinternacional.com/notas/" data-width="100%" data-numposts="5" data-mobile="True"></div>
             
         </div>
 
