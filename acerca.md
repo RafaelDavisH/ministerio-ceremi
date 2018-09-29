@@ -30,3 +30,6 @@ Ayudar a los siervos de Dios en su salud espiritual, emocional y física para el
  - Preparar a los aspirantes al ministerio en áreas prácticas.
  - Ayudar a quienes necesitan ser renovados en su espíritu y ministerio.
  - Buscar la sanidad de quienes necesitan ser restaurados.
+
+ <br>
+ <br>

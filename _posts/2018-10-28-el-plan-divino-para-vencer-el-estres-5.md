@@ -2,9 +2,9 @@
 layout: post
 title:  "El Plan Divino Para Vencer El Estres 5"
 author: "Lc. Orlando Baldelomar"
-languages:
-- en
-- es
+date:   2018-10-28 08:00:00 -0700
+categories: [notas]
+tag: notas
 ---
 <img src="/assets/img/stress.jpeg" class="img-fluid" alt="Responsive image">
 

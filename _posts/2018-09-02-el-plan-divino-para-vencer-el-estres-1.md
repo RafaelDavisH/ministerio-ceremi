@@ -2,7 +2,7 @@
 layout: post
 title:  "El Plan Divino Para Vencer El Estres 1"
 author: "Lc. Orlando Baldelomar"
-date:   2018-09-28 08:00:00 -0700
+date:   2018-09-02 08:00:00 -0700
 categories: [notas]
 tag: notas
 ---
