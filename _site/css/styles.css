@@ -1,3 +1,20 @@
+.front_page_title {
+  font-family:"Helvetica Neue", "Segoe UI", Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  font-size: 2.5rem;
+  color: #333;
+}
+
+.suscribe_btn {
+  font-size: 0.9em !important;
+  text-transform: uppercase;
+}
+
+.btn {
+  margin-top: 5px;
+}
+
 p, li, a {
   color: #333333;
   font-size: 1.2em;
