@@ -5,6 +5,7 @@ author: "Lc. Orlando Baldelomar"
 date:   2018-09-02 08:00:00 -0700
 categories: [notas]
 tag: notas
+permalink: /notas/El-Plan-Divino-Para-Vencer-El-Estres-1/
 ---
 <img src="/assets/img/stress.jpeg" class="img-fluid" alt="Responsive image">
 
