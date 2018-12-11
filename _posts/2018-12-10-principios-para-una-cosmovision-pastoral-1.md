@@ -10,7 +10,7 @@ permalink: /notas/Principios-para-una-Cosmovision-Pastoral-1/
 <img src="/assets/img/cosmovision.jpeg" class="img-fluid" alt="Responsive image">
 
 <br>
->..."no comiences sin calcular el costo. Pues, ¿quién comenzaría a construir un edificio sin primero calcular el costo para ver si hay suficiente dinero para terminarlo?"
+>"...no comiences sin calcular el costo. Pues, ¿quién comenzaría a construir un edificio sin primero calcular el costo para ver si hay suficiente dinero para terminarlo?"
 **Lucas 14.28 N.T.V.**
 
 
