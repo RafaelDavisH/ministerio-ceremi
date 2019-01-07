@@ -16,7 +16,7 @@ permalink: /notas/Principios-para-una-Cosmovision-Pastoral-3/
 
 <br>
 
-En el principio de la investigación se observó en la nota #1, la necesidad de investigar el origen de la iglesia para descubrir las causas de posibles problemas, o situaciones que impiden la vida saludable de la iglesia. En la nota #3, se trató sobre la necesidad de investigar el contexto de la comunidad. Desconocer los problemas de la comunidad en la cual se ministra, implica ser una iglesia irrelevante que  no responde a las necesidades presentes. En esta nota #3, se enfocará en conocer la función interna de las familias de la iglesia: colectivas o independientes.
+En el principio de la investigación se observó en la nota #1, la necesidad de investigar el origen de la iglesia para descubrir las causas de posibles problemas, o situaciones que impiden la vida saludable de la iglesia. En la nota #2, se trató sobre la necesidad de investigar el contexto de la comunidad. Desconocer los problemas de la comunidad en la cual se ministra, implica ser una iglesia irrelevante que  no responde a las necesidades presentes. En esta nota #3, se enfocará en conocer la función interna de las familias de la iglesia: colectivas o independientes.
 
 <br>
 ### las Familias Colectivas
