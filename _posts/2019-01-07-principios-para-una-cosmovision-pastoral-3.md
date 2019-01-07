@@ -26,7 +26,7 @@ Los polos opuestos son un atractivo, tanto para el uno como para el otro; pero p
 
 Conocer las familias colectivas en la iglesia, es indispensable para saber tratar algún problema que surja con uno de sus miembros; por cuanto la reacción a cualquier acción, será familiar.
 
-
+<br>
 ### Las Familias Independientes
 Las familias independientes son conocidas también como centrífugas. Son totalmente lo opuesto  a las colectivas. El origen de familias independientes  se encuentra en la experiencia formativa de uno o de los dos cónyuges: 1. Crecer con padres ausentes en la vida emocional.  2. Tener que abandonar el hogar por causa de la pobreza.  3. Realizar estudios fuera del entorno familiar.  4. La muerte de los padres en la niñez. 5. Sufrir el divorcio de los padres.  6. El abandono de uno de los padres. 7. Otros.
 
