@@ -18,7 +18,7 @@ permalink: /notas/Principios-para-una-Cosmovision-Pastoral-4/
 En la nota anterior se  analizó brevemente las familias colectivas y las independientes que conforman la iglesia.   En esta ocasión se enfocará la función matriarcal o patriarcal de las familias y sus implicaciones en la iglesia.
 
 <br>
-### las Familias Matriarcales
+### Las Familias Matriarcales
 No se pueden considerar todas los factores de un matriarcado, pero existen en medio de una sociedad particularmente machista. Es un sistema en el cual la mujer desempeña una función social de primer orden para el desarrollo familiar. En la familia matriarcal la figura del padre no ejerce ningún impacto positivo relevante, sobre todo en la vida de sus hijos, pero si puede dejarles diversas secuelas negativas. Según la antropóloga y fotoperiodista, Anna Boyé, el matriarcado se enfoca en el “ser”, a diferencia del patriarcado que busca el “tener”.
 Una de las causas del matriarcado es el temperamento pasivo de algunos hombres, lo cual obliga a la mujer a tomar un rol más directivo en el hogar, a la vez que el hombre cede sus privilegios y responsabilidades como líder espiritual del hogar, señalados en Efesios 5.22-33. Esto incide, igualmente, en el liderazgo de la vida de una iglesia, en donde se puede observar el déficit del involucramiento varonil.
 
