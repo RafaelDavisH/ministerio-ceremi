@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Principios para una cosmovisión pastoral 4"
+title:  "Principios para una cosmovisión pastoral 5"
 author: "Lic. Orlando Baldelomar"
 date:   2019-02-04 08:00:00 -0700
 categories: [notas]
