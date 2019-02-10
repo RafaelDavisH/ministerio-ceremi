@@ -44,12 +44,28 @@ Una iglesia tenía 18 parejas sin casarse; producto del pastor anterior que cons
 <br>
 ### Limitaciones pastorales.
 A muchos pastores les es difícil conocer el estado familiar de los miembros.  Las siguientes son algunas posibles causas.
+
 1. Cuando la iglesia es muy grande y los miembros sólo se conocen en el templo.
-2. Si la iglesia no percibe las finanzas suficientes y el pastor  se ve obligado a tener un trabajo aparte, le es muy difícil conocer el estado de sus ovejas.  Eso es muy común en algunos lugares,  como en Estados Unidos donde muchos pastores son bivocacionales.   
+
+
+2. Si la iglesia no percibe las finanzas suficientes y el pastor  se ve obligado a tener un trabajo aparte, le es muy difícil conocer el estado de sus ovejas.  Eso es muy común en algunos lugares,  como en Estados Unidos donde muchos pastores son bivocacionales.
+
+
 3. Pastores laicos que  inician un pastorado teniendo su propio modo de ingreso, que en algunos casos es un negocio familiar que tienen que tienen que atender, y en otros, son profesionales con poco tiempo disponible.
-4. Ciudades grandes donde los miembros de la iglesia se encuentran muy distantes unos de otros.  Personalmente tuve miembros que vivían a 60 millas de distancia (96 km.).   
-5. Iglesias con varios ministerios que absorben el tiempo pastoral.  
-6. Pastores evangelistas que viajan continuamente.   7. Pastores de púlpito, con poca relación social.   
+
+
+4. Ciudades grandes donde los miembros de la iglesia se encuentran muy distantes unos de otros.  Personalmente tuve miembros que vivían a 60 millas de distancia (96 km.).  
+
+
+5. Iglesias con varios ministerios que absorben el tiempo pastoral.
+
+
+6. Pastores evangelistas que viajan continuamente.
+
+
+7. Pastores de púlpito, con poca relación social.
+
+
 8.  Otros.
 
 
