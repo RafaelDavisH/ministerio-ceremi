@@ -2,7 +2,7 @@
 layout: post
 title:  "Principios para una cosmovisión pastoral 6"
 author: "Lic. Orlando Baldelomar"
-date:   2019-02-04 08:00:00 -0700
+date:   2019-02-16 08:00:00 -0700
 categories: [notas]
 tag: notas
 permalink: /notas/Principios-para-una-Cosmovision-Pastoral-6/
