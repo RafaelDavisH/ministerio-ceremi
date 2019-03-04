@@ -45,5 +45,3 @@ fields:
   description: 'Aqui escriba este formato: /notas/Principios-para-una-Cosmovision-Pastoral-7/'
   config:
     required: true
-pages:
-- _posts/2019-03-04-this-is-just-a-test.md
