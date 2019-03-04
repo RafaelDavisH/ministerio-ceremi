@@ -22,14 +22,14 @@ fields:
   config:
     required: true
 - type: tag_list
-  name: tag
-  label: tag
-  description: 'Aqui escriba: notas'
-  hidden: false
-- type: tag_list
   name: categories
   label: categories
   description: 'escriba: notas'
+- type: tag_list
+  name: tag
+  label: tag
+  description: 'escriba: notas'
+  hidden: false
 - type: datetime
   name: fecha
   label: fecha
