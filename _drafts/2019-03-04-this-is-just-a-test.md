@@ -2,8 +2,10 @@
 layout: post
 title: This is just a test
 author: Lic. Orlando Baldelomar
-categories: notas
-tag: []
+categories:
+- notas
+tag:
+- notas
 fecha: 2019-03-04 08:00:00 +0000
 permalink: "/notas/this-is-just-a-test/"
 date: 2019-03-04 20:38:27 +0000
