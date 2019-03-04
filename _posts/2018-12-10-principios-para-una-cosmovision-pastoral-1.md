@@ -7,6 +7,7 @@ categories: [notas]
 tag: notas
 permalink: /notas/Principios-para-una-Cosmovision-Pastoral-1/
 ---
+
 <img src="/assets/img/cosmovision.jpeg" class="img-fluid" alt="Responsive image">
 
 <br>

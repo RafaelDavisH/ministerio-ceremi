@@ -22,6 +22,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem "jekyll-paginate"
   gem 'jekyll-language-plugin', '1.3.5'
+  gem 'jekyll-admin'
 
 end
 
