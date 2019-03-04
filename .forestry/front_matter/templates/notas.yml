@@ -48,4 +48,4 @@ fields:
   config:
     required: true
 pages:
-- _posts/this-is-just-a-test.md
+- _posts/2019-03-04-this-is-just-a-test.md
