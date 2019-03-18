@@ -1,0 +1,47 @@
+---
+label: notas
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  description: Aqui escriba -> post
+  config:
+    required: true
+- type: text
+  name: title
+  label: Title
+  description: Nombre su nota pastoral en consistencia con serie  y numero que pertenezca.
+  config:
+    required: true
+- type: text
+  name: author
+  label: author
+  description: 'Aqui escriba lo siguiente: Lic. Orlando Baldelomar'
+  config:
+    required: true
+- type: tag_list
+  name: categories
+  label: categories
+  description: 'escriba: notas'
+- type: tag_list
+  name: tag
+  label: tag
+  description: 'escriba: notas'
+  hidden: false
+- type: datetime
+  name: fecha
+  label: fecha
+  description: Esta fecha se refiere a la fecha que sera publicada la nota pastoral
+    y no la fecha cuando se este elaborando.
+  config:
+    date_format: MM/DD/YYYY
+    time_format: h:mm
+    required: true
+- type: text
+  name: permalink
+  label: permalink
+  description: 'Aqui escriba este formato: /notas/Principios-para-una-Cosmovision-Pastoral-7/'
+  config:
+    required: true
