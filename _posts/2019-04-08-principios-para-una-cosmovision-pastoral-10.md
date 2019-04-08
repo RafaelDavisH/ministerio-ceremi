@@ -18,7 +18,7 @@ permalink: /notas/Principios-para-una-Cosmovision-Pastoral-10/
 Continuando en el área de “relaciones” dentro del contexto de la comunidad, en esta nota se tratará la importancia de la relación del pastor con los gobernantes de la comunidad en que la iglesia se encuentra. No es una recomendación política, sino un recordatorio de la función de la iglesia según el plan divino.  
 
 <br>
-### Razones y objectivos divinos.
+### Razones y objetivos divinos.
 
 1. La responsabilidad de orar (Sal. 122.6)
 
@@ -37,7 +37,7 @@ Continuando en el área de “relaciones” dentro del contexto de la comunidad,
     Cuando se vive a la luz de la Palabra, es mucho más fácil hacer discípulos para Cristo; porque han visto brillar la luz de las buenas obras (Mat. 5.13-16).
 
 <br>
-### Razones y objectivos pastorales
+### Razones y objetivos pastorales
 
 1. Ampliar la visión pastoral.
 
