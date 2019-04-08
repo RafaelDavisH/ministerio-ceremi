@@ -22,7 +22,7 @@ Continuando en el área de “relaciones” dentro del contexto de la comunidad,
 
 1. La responsabilidad de orar (Sal. 122.6)
 
-Toda congregación tiene la responsabilidad de orar por la paz de su comunidad,la de su nación y la paz internacional. Muchos cambios comunales  pueden suceder como producto de la oración del pueblo de Dios.   
+    Toda congregación tiene la responsabilidad de orar por la paz de su comunidad,la de su nación y la paz internacional. Muchos cambios comunales  pueden suceder como producto de la oración del pueblo de Dios. 
 
 
 2. La responsabilidad de dar testimonio (Mat. 5.13-16). Esto tiene varias implicaciones:
@@ -49,7 +49,7 @@ Toda congregación tiene la responsabilidad de orar por la paz de su comunidad,l
     Existe una gran variedad de ministerios que las iglesias desarrollan. Algunos responden a necesidades reales de la comunidad, con el objetivo de que otros puedan conocer el amor redentor de Dios; pero muchos sólo se enfocan en satisfacer necesidades internas de la congregación. Los deseos personales de sus miembros, los hace más propensos a celos, pleitos y divisiones.
     Es responsabilidad del pastor mantener el equilibrio para que la iglesia sea sal y luz de la tierra. Para conocer mejor las necesidades comunales, es necesario participar de las reuniones municipales, de eventos y actividades deportivas, ferias de salud y muchas otras actividades cívicas, siempre y cuando no comprometan los principios de la fe. Los creyentes comprometidos con Dios, son creyentes comprometidos con la redención del mundo, siguiendo el ejemplo de Cristo, que compartió con publicanos y pecadores (Mat. 9.10,11).
 
-
+<br>
 #### Un testimonio personal
 
 En el año 2007, el City Hall (alcaldía) de la ciudad de Huntington Park en los Angeles, California, nos hizo un reconocimiento, a mi esposa y a mí, por el aporte a la comunidad en la educación, en la consejería, en la salud y en otras áreas. En el año 2008, el City Hall me entregó una placa de reconocimiento, como inmigrante del año.
