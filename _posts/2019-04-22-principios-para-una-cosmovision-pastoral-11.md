@@ -62,8 +62,4 @@ El pastor y la esposa se convierten en modelos de jóvenes y adultos en todo los
 
 
 <br>
-**Lic. Orlando Baldelomar**
 
-**Centro de Renovacion Ministerial**
-
-**Email: ceremiinternacional@icloud.com**
