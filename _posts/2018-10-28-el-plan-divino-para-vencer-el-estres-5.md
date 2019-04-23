@@ -70,8 +70,4 @@ Inicié el ministerio a los 20 años en Costa Rica, y a los 25 tuve mi primer su
 
 
 <br>
-**Lic. Orlando Baldelomar**
 
-**Centro de Renovacion Ministerial**
-
-**Email: ceremicostarica@gmail.com**

@@ -80,8 +80,3 @@ No obstante, hay que tener en cuenta  cómo opera el espíritu humano y cómo op
 
 
 <br>
-**Lic. Orlando Baldelomar**
-
-**Centro de Renovacion Ministerial**
-
-**Email: ceremicostarica@gmail.com**

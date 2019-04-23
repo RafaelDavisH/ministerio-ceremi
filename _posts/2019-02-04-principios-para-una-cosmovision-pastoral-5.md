@@ -85,8 +85,4 @@ Ser pastor, no es saber predicar.  Es saber ministrar a las personas en sus nece
 
 
 <br>
-**Lic. Orlando Baldelomar**
 
-**Centro de Renovacion Ministerial**
-
-**Email: ceremicostarica@gmail.com**

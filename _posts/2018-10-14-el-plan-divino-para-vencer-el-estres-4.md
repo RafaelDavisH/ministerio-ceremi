@@ -73,8 +73,4 @@ El cuarto consejo del apóstol Pablo tiene que ver con la gratitud: “**con acc
 
 
 <br>
-**Lic. Orlando Baldelomar**
 
-**Centro de Renovacion Ministerial**
-
-**Email: ceremicostarica@gmail.com**

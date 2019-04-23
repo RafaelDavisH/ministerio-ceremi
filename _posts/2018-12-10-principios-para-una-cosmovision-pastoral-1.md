@@ -38,8 +38,3 @@ Cada pastor de la iglesia dejó tradiciones que se convierten en patrones. Siemp
 
 
 <br>
-**Lic. Orlando Baldelomar**
-
-**Centro de Renovacion Ministerial**
-
-**Email: ceremicostarica@gmail.com**

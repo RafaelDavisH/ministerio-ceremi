@@ -65,8 +65,3 @@ Finalmente: El individualismo empobrece y las posibilidades de agotamiento y est
 
 
 <br>
-**Lic. Orlando Baldelomar**
-
-**Centro de Renovacion Ministerial**
-
-**Email: ceremicostarica@gmail.com**

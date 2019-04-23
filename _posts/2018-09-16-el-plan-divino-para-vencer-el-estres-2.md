@@ -48,8 +48,4 @@ El primer consejo apeló a enfocar la mente en Dios, pero el segundo, a estar es
 
 
 <br>
-**Lic. Orlando Baldelomar**
 
-**Centro de Renovacion Ministerial**
-
-**Email: ceremicostarica@gmail.com**

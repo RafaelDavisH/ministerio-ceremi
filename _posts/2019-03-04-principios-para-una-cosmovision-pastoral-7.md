@@ -49,8 +49,3 @@ En general, los líderes cristianos coléricos pueden ser más capaces en lograr
 
 
 <br>
-**Lic. Orlando Baldelomar**
-
-**Centro de Renovacion Ministerial**
-
-**Email: ceremicostarica@gmail.com**

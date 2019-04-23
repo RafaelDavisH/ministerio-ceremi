@@ -64,8 +64,4 @@ El consejo Paulino es dejar la autosuficiencia y la arrogancia para depender de 
 
 
 <br>
-**Lic. Orlando Baldelomar**
 
-**Centro de Renovacion Ministerial**
-
-**Email: ceremicostarica@gmail.com**

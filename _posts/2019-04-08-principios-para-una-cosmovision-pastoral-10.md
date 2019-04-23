@@ -71,8 +71,4 @@ En el año 2007, el City Hall (alcaldía) de la ciudad de Huntington Park en los
 
 
 <br>
-**Lic. Orlando Baldelomar**
 
-**Centro de Renovacion Ministerial**
-
-**Email: ceremicostarica@gmail.com**

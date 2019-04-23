@@ -53,8 +53,4 @@ Dios no da explicaciones, pero pide que el creyente concentre su mente en sus pr
 
 
 <br>
-**Lic. Orlando Baldelomar**
 
-**Centro de Renovacion Ministerial**
-
-**Email: ceremicostarica@gmail.com**

@@ -37,8 +37,4 @@ En una familia patriarcal saludable, el varón ejerce con amor sacrificial el ro
 
 
 <br>
-**Lic. Orlando Baldelomar**
 
-**Centro de Renovacion Ministerial**
-
-**Email: ceremicostarica@gmail.com**

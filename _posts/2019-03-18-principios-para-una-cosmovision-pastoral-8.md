@@ -55,8 +55,3 @@ Dios siempre va a respaldar la fe que armoniza con su voluntad.
 
 
 <br>
-**Lic. Orlando Baldelomar**
-
-**Centro de Renovacion Ministerial**
-
-**Email: ceremicostarica@gmail.com**

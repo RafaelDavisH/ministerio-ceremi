@@ -45,8 +45,4 @@ Muchos contratiempos y malos entendidos se pueden evitar en la vida de una igles
 
 
 <br>
-**Lic. Orlando Baldelomar**
 
-**Centro de Renovacion Ministerial**
-
-**Email: ceremicostarica@gmail.com**

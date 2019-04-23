@@ -40,8 +40,4 @@ Cuando hay varias nacionalidades representadas en la comunidad, la iglesia tiene
 
 
 <br>
-**Lic. Orlando Baldelomar**
 
-**Centro de Renovacion Ministerial**
-
-**Email: ceremicostarica@gmail.com**

@@ -70,8 +70,4 @@ El tercer consejo del apóstol Pablo  para vencer el estrés, es presentar ante 
 
 
 <br>
-**Lic. Orlando Baldelomar**
 
-**Centro de Renovacion Ministerial**
-
-**Email: ceremicostarica@gmail.com**

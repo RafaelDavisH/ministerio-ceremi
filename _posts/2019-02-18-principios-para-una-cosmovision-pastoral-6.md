@@ -44,8 +44,4 @@ Dómata:  En este caso el regalo es una persona para la iglesia.  En efesios 4.8
 
 
 <br>
-**Lic. Orlando Baldelomar**
 
-**Centro de Renovacion Ministerial**
-
-**Email: ceremicostarica@gmail.com**
