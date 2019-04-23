@@ -21,7 +21,7 @@ title: project
             <p class="project-date text-center">{{ page.date | date: "%B %d, %Y" }} | {{ page.tags }}</p>
             
             {{content}}
-            
+            {% include pastors-signature.html %}
             <div class="fb-like" data-href="https://ceremiinternacional.com{{ page.url }}" data-width="800px" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
             <div class="fb-comments" data-href="https://ceremiinternacional.com{{ page.url }}" data-width="800px" data-numposts="5" data-mobile="True"></div>
             
