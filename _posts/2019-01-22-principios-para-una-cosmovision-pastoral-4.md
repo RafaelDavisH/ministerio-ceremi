@@ -7,7 +7,10 @@ categories: [notas]
 tag: notas
 permalink: /notas/Principios-para-una-Cosmovision-Pastoral-4/
 ---
+<figure>
 <img src="/assets/img/cosmovision.jpeg" class="img-fluid" alt="Responsive image">
+<figcaption>www.pexels.com</figcaption>
+</figure>
 
 <br>
 >"...no comiences sin calcular el costo. Pues, ¿quién comenzaría a construir un edificio sin primero calcular el costo para ver si hay suficiente dinero para terminarlo?"

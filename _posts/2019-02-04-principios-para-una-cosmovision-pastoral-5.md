@@ -7,7 +7,10 @@ categories: [notas]
 tag: notas
 permalink: /notas/Principios-para-una-Cosmovision-Pastoral-5/
 ---
+<figure>
 <img src="/assets/img/cosmovision.jpeg" class="img-fluid" alt="Responsive image">
+<figcaption>www.pexels.com</figcaption>
+</figure>
 
 <br>
 >"Sé diligente en conocer el estado de tus ovejas, y mira con cuidado por tus rebaños."
