@@ -12,13 +12,8 @@ permalink: /notas/Principios-para-una-Cosmovision-Pastoral-15/
 <figcaption>www.pexels.com</figcaption>
 </figure>
 <br>
-<<<<<<< HEAD
 >"Donde no hay visión, el pueblo se extravía"
 **Proverbios 29.18 N.V. I.**
-=======
->"Sé diligente en conocer el estado de tus ovejas, y mira con cuidado por tus rebaños."
-**Proverbios 27.23 R.V.**
->>>>>>> 079be2f1e715193fe88a7f26fbd227314d4f188b
 
 <br>
 Hasta este punto, se han observado dos principios: 1. Investigar y 2. Conocer, en tres áreas: La vida de la iglesia, la comunidad y las familias que conforman la congregación local.  En esta nota se inicia el enfoque de un tercer principio: La concientización que debe existir en las mismas dimensiones arriba mencionadas, iniciando en la iglesia local.
