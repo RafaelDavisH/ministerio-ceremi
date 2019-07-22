@@ -9,7 +9,7 @@ permalink: /notas/Principios-para-una-Cosmovision-Pastoral-13/
 ---
 <figure>
 <img src="/assets/img/cosmovision.jpeg" class="img-fluid" alt="Responsive image">
-<figcaption>www.pexels.com</figcaption>
+<figcaption><a href="https://www.pexels.com/">pixels</a></figcaption>
 </figure>
 <br>
 >"Sé diligente en conocer el estado de tus ovejas, y mira con cuidado por tus rebaños."
