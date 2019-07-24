@@ -19,7 +19,7 @@ permalink: /notas/Principios-para-una-Cosmovision-Pastoral-17/
 En las dos notas anteriores se observó que para el crecimiento de una congregación, ésta tiene que proyectarse a metas claras y específicas. Para lograrlo, los miembros deben estar concientizados de cual es la la misión y visión de la iglesia, y de la necesidad de saber trabajar en equipo. Esta nota Iniciará enfocando tres elementos indispensables en la realización de la visión propuesta: El tiempo, los recursos y la calidad.
 
 <br>
-### El Tiempo.
+<h2 class="text-center">El Tiempo.</h2>
 
 El factor tiempo es muy importante, tanto para iniciar como para el cumplimiento de las metas intermedias, o el cumplimiento de un proyecto. No respetar el tiempo adecuado para cada etapa, en la proyección de una iglesia local (Plan de crecimiento, fundación de nuevas congregaciones, envío de misioneros, etc.), conduce a consecuencias frustrantes.
 
@@ -41,8 +41,7 @@ Cada etapa alcanzada es una oportunidad de celebración, escuchar testimonios, a
 
 <br>
 
-### Los Recursos.
-
+<h2 class="text-center">Los Recursos.</h2>
 No se puede alcanzar un objetivo sin tener los recursos necesarios, lo cual incluye: Personas, equipo, materiales, dinero e instalaciones.
 
 <br>
