@@ -22,7 +22,7 @@ En la nota #17 se inició el enfoque de tres elementos esenciales para alcanzar 
 <h2 class="text-center">Los Recursos</h2>
 
 Los recursos no siempre tienen que ver con dinero,
-pues éstos pueden ser muy variados: dones espirituales, habilidades, equipo tecnológico, amistades, contactos, y muchas otros, incluyendo la fe.  Con todo, el dinero siempre es un recurso muy valioso, y en algunos casos indispensable.
+pues éstos pueden ser muy variados: dones espirituales, habilidades, equipo tecnológico, amistades, contactos, y muchos otros, incluyendo la fe.  Con todo, el dinero siempre es un recurso muy valioso, y en algunos casos indispensable.
 
 
 <br>
