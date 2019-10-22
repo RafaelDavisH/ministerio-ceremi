@@ -5,7 +5,7 @@ author: "Lic. Orlando Baldelomar"
 date:   2019-10-22 08:00:00 -0700
 categories: [notas]
 tag: notas
-permalink: /notas/Principios-para-una-Cosmovision-Pastoral-21/
+permalink: /notas/Principios-para-una-Cosmovision-Pastoral-22/
 ---
 <figure>
 <img src="/assets/img/cosmovision.jpeg" class="img-fluid" alt="Responsive image">
