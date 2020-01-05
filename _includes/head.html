@@ -1,37 +1,74 @@
 <head>
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   <!-- Global Site Tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-126683770-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+  <script
+    async
+    src="https://www.googletagmanager.com/gtag/js?id=UA-126683770-1"
+  ></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
 
-      gtag('config', 'UA-126683770-1');
-    </script>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-    <title>
-      {% if page.title == "Home" %}
-        {{ site.title }} &middot; {{ site.tagline }}
-      {% else %}
-        {{ page.title }} &middot; {{ site.title }}
-      {% endif %}
-    </title>
+    gtag("config", "UA-126683770-1");
+  </script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <link rel="stylesheet" href="{{ '/css/bootstrap.min.css' | relative_url }}">
-    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
-    <link rel="stylesheet" href="{{ '/css/styles.css' | relative_url }}">
-    <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon-16x16.png">
-    <link rel="mask-icon" href="/assets/img/safari-pinned-tab.svg" color="#5bbad5">
-    <meta name="msapplication-TileColor" content="#da532c">
-    <meta name="theme-color" content="#ffffff">
-    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
-    <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-    <style type="text/css">
-    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-    </style>
-  </head>
+  <title>
+    {% if page.title == "Home" %} {{ site.title }} &middot; {{ site.tagline }}
+    {% else %} {{ page.title }} &middot; {{ site.title }} {% endif %}
+  </title>
+
+  <link rel="stylesheet" href="{{ '/css/bootstrap.min.css' | relative_url }}" />
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}" />
+  <link rel="stylesheet" href="{{ '/css/styles.css' | relative_url }}" />
+  <link
+    rel="apple-touch-icon"
+    sizes="180x180"
+    href="/assets/img/apple-touch-icon.png"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="32x32"
+    href="/assets/img/favicon-32x32.png"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="16x16"
+    href="/assets/img/favicon-16x16.png"
+  />
+  <link
+    rel="mask-icon"
+    href="/assets/img/safari-pinned-tab.svg"
+    color="#5bbad5"
+  />
+  <meta name="msapplication-TileColor" content="#da532c" />
+  <meta name="theme-color" content="#ffffff" />
+  <link
+    href="https://fonts.googleapis.com/css?family=Raleway"
+    rel="stylesheet"
+  />
+  <link
+    rel="stylesheet"
+    href="https://use.fontawesome.com/releases/v5.2.0/css/all.css"
+    integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ"
+    crossorigin="anonymous"
+  />
+  <link
+    href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css"
+    rel="stylesheet"
+    type="text/css"
+  />
+  <style type="text/css">
+    #mc_embed_signup {
+      background: #fff;
+      clear: left;
+      font: 14px Helvetica, Arial, sans-serif;
+    }
+  </style>
+</head>
