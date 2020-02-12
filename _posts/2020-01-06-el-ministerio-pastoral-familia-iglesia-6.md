@@ -32,7 +32,7 @@ El pastorado es una responsabilidad divina, no un trabajo, tampoco una profesió
 
 Hay muchos componentes en la formación de los hijos que demandan la adquisición de conocimiento, tanto en área espiritual, biológica, temperamental, mental y social. Algunos de esos factores son:
 
-1.Espiritualmente, todo hijo hereda un ADN espiritual, no sólo el de Adán, por el cual recibimos la naturaleza pecaminosa, que Pablo la señala como la ley del pecado (Ro.7.21-23). También los hijos reciben los códigos espirituales (ADN) de sus predecesores, por lo cual Dios castiga la maldad de los padres en los hijos hasta la cuarta generación ( Exo. 20.5; Núm. 14.180). De modo que, la formación de los hijos implica responsabilidad de la vida espiritual de los padres, y la sanidad que los hijos necesitan de los mutantes del pecado heredado de sus progenitores que deforman el carácter de ellos.
+1. Espiritualmente, todo hijo hereda un ADN espiritual, no sólo el de Adán, por el cual recibimos la naturaleza pecaminosa, que Pablo la señala como la ley del pecado (Ro.7.21-23). También los hijos reciben los códigos espirituales (ADN) de sus predecesores, por lo cual Dios castiga la maldad de los padres en los hijos hasta la cuarta generación ( Exo. 20.5; Núm. 14.180). De modo que, la formación de los hijos implica responsabilidad de la vida espiritual de los padres, y la sanidad que los hijos necesitan de los mutantes del pecado heredado de sus progenitores que deforman el carácter de ellos.
 
 Por lo anterior, es necesario elaborar un genograma familiar, para descubrir maldiciones generacionales. Hay mucho más que ampliar al respecto, pero es responsabilidad de los padres investigar por el bien de sus hijos. La ignorancia en sí ya es un pecado que conlleva consecuencias.
 
