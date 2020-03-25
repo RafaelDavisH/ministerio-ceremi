@@ -8,10 +8,6 @@ tag: notas
 permalink: /notas/Ministerio-Pastoral-Familia-Iglesia-7/
 ---
 
-<figure>
-<img src="/assets/img/family.jpg" class="img-fluid" alt="Responsive image">
-<figcaption><a href="https://www.pexels.com/"><small>pixels</small></a></figcaption>
-</figure>
 <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BhKGG5uoMOw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
