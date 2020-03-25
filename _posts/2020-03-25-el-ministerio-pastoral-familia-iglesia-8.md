@@ -9,10 +9,12 @@ permalink: /notas/Ministerio-Pastoral-Familia-Iglesia-7/
 ---
 
 <br>
-
+ <div class="text-content">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BhKGG5uoMOw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Predicacion por el Rev. E. Bayardo Baldelomar**
 **Fecha: 3/15/2020**
+
+</div>
 
 <br>
