@@ -2,7 +2,7 @@
 layout: post
 title: "El Ministerio Pastoral Familia-Iglesia-7"
 author: "Lic. Orlando Baldelomar"
-date: 2020-03-04 08:00:00 -0700
+date: 2020-03-25 08:00:00 -0700
 categories: [notas]
 tag: notas
 permalink: /notas/Ministerio-Pastoral-Familia-Iglesia-7/
